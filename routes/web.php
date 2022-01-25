@@ -21,4 +21,4 @@ Route::get('/contacts', 'PageController@contatti')->name('contatti');
 
 Route::get('/altro', 'PageController@altro')->name('altro');
 
-Route::get('/films', 'FilmsController@index')->name('films');
+Route::get('/movies', 'MoviesController@index')->name('movies');
