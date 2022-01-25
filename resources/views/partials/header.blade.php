@@ -5,7 +5,7 @@
         <li><a href="{{ route('about') }}">About</a></li>
         <li><a href="{{ route('contatti') }}">Contacts</a></li>
         <li><a href="{{ route('altro') }}">Altro</a></li>
-        <li><a href="{{ route('films') }}">Film</a></li>
+        <li><a href="{{ route('movies') }}">Film</a></li>
     </ul>
 
 </header>
